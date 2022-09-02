@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background-color:rgb(18, 18, 18);;
+}
+.nav{
+    margin: 0%;
+    background-color:#2a2a2a;
+}
+.navbar{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+}
+.list a{
+    padding: 20px;
+    color: #e7e7e7;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+}
+.icon{
+    filter: invert(100%);
+}
+.epic-icon{
+    padding: 10px 10px;
+    width: 30px;
+}
+.cards{
+display: flex;
+}
+.cards-games{
+padding: 30px;
+}
+.images-games{
+    width: 200px;
+  
+}
